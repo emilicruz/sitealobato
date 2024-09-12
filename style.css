@@ -6,3 +6,12 @@
   :root{
 
   }
+  .cabecalho{
+    background-color: azure;
+  }
+  .corpo{
+    background-color: beige;
+  }
+  .footer{
+    background-color: aqua;
+  }
