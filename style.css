@@ -1,17 +1,26 @@
 *{
  margin: 0;
  padding: 0;
-
 }
   :root{
 
   }
   .cabecalho{
-    background-color: azure;
-  }
-  .corpo{
-    background-color: beige;
+    background-color: rgb(19, 184, 52);
+   padding: 50px;
+   }
+ .corpo{
+    background-color: rgb(13, 129, 57);
   }
   .footer{
-    background-color: aqua;
+    background-color: aquamarine
   }
+   .boton{
+ position:fixed; 
+ top: 20px;
+  left: 20px;
+  padding: 10px 20px;  
+  background-color:rgb(13, 129, 57)
+ 
+
+
